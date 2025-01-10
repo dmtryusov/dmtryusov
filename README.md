@@ -1,8 +1,6 @@
 <h1>Hello, I'm <a href="https://meusov.ru/" target="_blank">Dmitry Usov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>✨ QA Engineer from Russia 🇷🇺 with a passion for quality and technology ✨</h3>
-<p>🌟 Welcome to my profile! I'm an experienced QA Engineer with expertise in manual and automation testing, backend/frontend. 🚀</p>
-<p>📍 Based in Kazan, open to opportunities in Moscow, St. Petersburg, and remote roles.</p>
 
 ---
 
