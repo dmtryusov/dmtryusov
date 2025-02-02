@@ -1,6 +1,6 @@
-<h1>Hello, I'm <a href="https://meusov.ru/" target="_blank">Dmitry Usov</a> 
+<h1>Hey, I'm Dmitry Usov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>✨ QA Engineer from Russia 🇷🇺 with a passion for quality and technology </h3>
+<h3>QA Engineer from Russia 🇷🇺 with a passion for quality and technology </h3>
 
 ---
 
