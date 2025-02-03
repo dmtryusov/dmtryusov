@@ -13,7 +13,7 @@
 
 ### 💬 Let's Connect:
 - 🌐 Website: [dmtryusov.ru](https://dmtryusov.ru/)
-- 📫 Email: dmtryusov.reply@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/meusov](https://www.linkedin.com/in/meusov/)
+- 📫 Email: dmtryusov.info@gmail.com
+- 💼 LinkedIn: [linkedin.com/dmtryusov](https://www.linkedin.com/in/dmtryusov/)
 
 ---
